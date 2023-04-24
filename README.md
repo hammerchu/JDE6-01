@@ -1,5 +1,4 @@
 # JDE6-01
-Intro to git
 
 intro to git
 
