@@ -27,3 +27,12 @@ And depends on what OS you are using you might be using a VI / Vim editor from U
 mini-tutorial about VI https://medium.com/@tburgess57/the-vi-text-editor-crash-course-bacdedfe71
 
 How to just save and quite: Press ESC first, then type the following command then ENTER :wq -> write to a file and then quite :q -> quit
+
+What is a repo - https://youtu.be/A-4WltCTVms
+What is a remote Repo - https://youtu.be/Lb4yvfrX_7I
+
+What is git Clone - https://youtu.be/aHMPn57ZmJo
+
+What is a Commit - https://youtu.be/XfDbGgSwa5I
+What is a Pull - https://youtu.be/v4g6y_HsgpA
+
